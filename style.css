@@ -1,0 +1,22 @@
+.header {
+    text-align: center; 
+    color: black;  
+    padding: 14px;
+    font-family: 'Sriracha', cursive;
+    font-size: 36px;
+}
+.img-thumbnail {
+    width: 356px;
+    height: 284px;
+    float: left;
+    margin-right: 15px;
+}
+body {
+    background-image: url("background2.jpg");
+    background-size:1800px;
+}
+.card,
+.d-flex {
+    background-image: url("card.jpg");
+    background-size: auto;
+}
