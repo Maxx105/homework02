@@ -20,3 +20,17 @@ body {
     background-image: url("card.jpg");
     background-size: auto;
 }
+.card-title {
+    font-size: 36px;
+    font-family: 'Sriracha', cursive;
+}
+
+.portfolio_card_text {
+    text-align:center;
+    font-family: 'Sriracha', cursive;
+    font-size: 24px;
+}
+
+.img-height {
+    height: 178px;
+}
