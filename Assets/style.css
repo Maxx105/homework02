@@ -31,10 +31,25 @@ body {
     font-family: 'Sriracha', cursive;
 }
 
+/* .contact_details {
+    font-size: 24px;
+    font-family: 'Sriracha', cursive;
+} */
+
 .portfolio_card_text {
     text-align:center;
     font-family: 'Sriracha', cursive;
     font-size: 24px;
+}
+
+.portfolio_card_repo_text {
+    text-align:center;
+    font-family: 'Sriracha', cursive;
+    font-size: 20px;
+}
+
+.margin {
+    margin-bottom: 10px;
 }
 
 .img-height {
