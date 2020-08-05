@@ -1,4 +1,4 @@
-# project 1
+# Portfolio
 UCI Boot Camp Homework 02 - Portfolio
 
 This was the second homework assignment for the full stack web development program at UC Irvine, in which the goal was to build a responsive portfolio website that includes an about page, a portfolio page with links to the deployed applications, and a contact page.
